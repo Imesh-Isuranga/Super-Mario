@@ -1,0 +1,30 @@
+C:\Users\imesh\OneDrive\Desktop\New Game2\Super Mario\Super Mario\bin\Debug\Super Mario.exe.config
+C:\Users\imesh\OneDrive\Desktop\New Game2\Super Mario\Super Mario\bin\Debug\Super Mario.exe
+C:\Users\imesh\OneDrive\Desktop\New Game2\Super Mario\Super Mario\bin\Debug\Super Mario.pdb
+C:\Users\imesh\OneDrive\Desktop\New Game2\Super Mario\Super Mario\obj\Debug\Super Mario.csproj.AssemblyReference.cache
+C:\Users\imesh\OneDrive\Desktop\New Game2\Super Mario\Super Mario\obj\Debug\Super Mario.csproj.SuggestedBindingRedirects.cache
+C:\Users\imesh\OneDrive\Desktop\New Game2\Super Mario\Super Mario\obj\Debug\Super_Mario.Form1.resources
+C:\Users\imesh\OneDrive\Desktop\New Game2\Super Mario\Super Mario\obj\Debug\Super_Mario.Properties.Resources.resources
+C:\Users\imesh\OneDrive\Desktop\New Game2\Super Mario\Super Mario\obj\Debug\Super Mario.csproj.GenerateResource.cache
+C:\Users\imesh\OneDrive\Desktop\New Game2\Super Mario\Super Mario\obj\Debug\Super Mario.csproj.CoreCompileInputs.cache
+C:\Users\imesh\OneDrive\Desktop\New Game2\Super Mario\Super Mario\obj\Debug\Super Mario.exe
+C:\Users\imesh\OneDrive\Desktop\New Game2\Super Mario\Super Mario\obj\Debug\Super Mario.pdb
+C:\Users\imesh\OneDrive\Desktop\New Game2\Super Mario\Super Mario\obj\Debug\Super_Mario.Form2.resources
+C:\Users\imesh\OneDrive\Desktop\New Game2\Super Mario\Super Mario\obj\Debug\Super_Mario.Form3.resources
+C:\Users\imesh\OneDrive\Desktop\New Game2\Super Mario\Super Mario\obj\Debug\Super_Mario.Form4.resources
+C:\Users\imesh\OneDrive\Desktop\New Game2\Super Mario\Super Mario\obj\Debug\Super_Mario.Form5.resources
+C:\Users\imesh\OneDrive\Desktop\Super Mario\Super Mario\Super Mario\bin\Debug\Super Mario.exe.config
+C:\Users\imesh\OneDrive\Desktop\Super Mario\Super Mario\Super Mario\bin\Debug\Super Mario.exe
+C:\Users\imesh\OneDrive\Desktop\Super Mario\Super Mario\Super Mario\bin\Debug\Super Mario.pdb
+C:\Users\imesh\OneDrive\Desktop\Super Mario\Super Mario\Super Mario\obj\Debug\Super Mario.csproj.AssemblyReference.cache
+C:\Users\imesh\OneDrive\Desktop\Super Mario\Super Mario\Super Mario\obj\Debug\Super Mario.csproj.SuggestedBindingRedirects.cache
+C:\Users\imesh\OneDrive\Desktop\Super Mario\Super Mario\Super Mario\obj\Debug\Super_Mario.Form1.resources
+C:\Users\imesh\OneDrive\Desktop\Super Mario\Super Mario\Super Mario\obj\Debug\Super_Mario.Form2.resources
+C:\Users\imesh\OneDrive\Desktop\Super Mario\Super Mario\Super Mario\obj\Debug\Super_Mario.Form3.resources
+C:\Users\imesh\OneDrive\Desktop\Super Mario\Super Mario\Super Mario\obj\Debug\Super_Mario.Form4.resources
+C:\Users\imesh\OneDrive\Desktop\Super Mario\Super Mario\Super Mario\obj\Debug\Super_Mario.Form5.resources
+C:\Users\imesh\OneDrive\Desktop\Super Mario\Super Mario\Super Mario\obj\Debug\Super_Mario.Properties.Resources.resources
+C:\Users\imesh\OneDrive\Desktop\Super Mario\Super Mario\Super Mario\obj\Debug\Super Mario.csproj.GenerateResource.cache
+C:\Users\imesh\OneDrive\Desktop\Super Mario\Super Mario\Super Mario\obj\Debug\Super Mario.csproj.CoreCompileInputs.cache
+C:\Users\imesh\OneDrive\Desktop\Super Mario\Super Mario\Super Mario\obj\Debug\Super Mario.exe
+C:\Users\imesh\OneDrive\Desktop\Super Mario\Super Mario\Super Mario\obj\Debug\Super Mario.pdb
